@@ -5,8 +5,6 @@
 fork of the NerdOCTAXE-Gamma design (https://github.com/Patsch91/NerdOCTAXE-Gamma), with 12 x BM1370 (12TH/s SHA256)
 	
 
-repository of Nerd-EKO-Gamma design
-
 
 #### Inspired by 
 [Bitaxe](https://github.com/skot/bitaxe) 
