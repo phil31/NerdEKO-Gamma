@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "bitaxe")(type "KiCad")(uri "${KIPRJMOD}/../bitaxe.pretty")(options "")(descr ""))
+  (lib (name "Nerd8")(type "KiCad")(uri "${KIPRJMOD}/Nerd8.pretty")(options "")(descr ""))
+  (lib (name "Thomas")(type "KiCad")(uri "C:/Users/User/Desktop/Bitaxe/qaxe-nerdqaxe-/nerdqaxe+/nerdqaxe+/nerdqaxe+.pretty")(options "")(descr ""))
+)
