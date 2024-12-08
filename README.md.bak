@@ -1,4 +1,5 @@
 # Nerd-EKO-Gamma Miner
+![hashcard](https://github.com/phil31/NerdEKO-Gamma/blob/main/images/Assembled_Nerd-EKO-Gamma.jpg)
 ![hashcard](https://github.com/phil31/NerdEKO-Gamma/blob/main/images/Nerd-EKO-Gamma_TOP.jpg)
 ![hashcard](https://github.com/phil31/NerdEKO-Gamma/blob/main/images/Nerd-EKO-Gamma_BOT.jpg)
 
