@@ -701,13 +701,13 @@
           "group_by": false,
           "label": "Manufacturer",
           "name": "Manufacturer",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "P/N DIGIKEY",
           "name": "P/N DIGIKEY",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -858,13 +858,19 @@
           "label": "OrderNr",
           "name": "OrderNr",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "P/N LCSC",
+          "name": "P/N LCSC",
+          "show": true
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Value"
+      "sort_field": "Footprint"
     },
     "connection_grid_size": 50.0,
     "drawing": {

@@ -6,6 +6,8 @@ fork of the NerdOCTAXE-Gamma design (https://github.com/Patsch91/NerdOCTAXE-Gamm
 ![hashcard](https://github.com/phil31/NerdEKO-Gamma/blob/main/images/Nerd-EKO-Gamma_TOP.jpg)
 ![hashcard](https://github.com/phil31/NerdEKO-Gamma/blob/main/images/Nerd-EKO-Gamma_BOT.jpg)
 
+- 6 layers PCB - Outer / Inner Copper Weight: 2 oz
+
 
 #### Inspired by 
 [Bitaxe](https://github.com/skot/bitaxe) 

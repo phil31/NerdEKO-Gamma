@@ -4480,6 +4480,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N LCSC" "C344171"
+			(at 157.48 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1e5baf85-240e-4e3f-ad96-b7ba1276b8f3")
 		)
@@ -4585,6 +4594,15 @@
 			)
 		)
 		(property "Puissance" ""
+			(at 234.95 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N LCSC" "C102986"
 			(at 234.95 144.78 0)
 			(effects
 				(font
@@ -5128,6 +5146,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N LCSC" "C625460"
+			(at 82.55 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2e814f4d-3565-48bc-a8fe-e9d015f9b537")
 		)
@@ -5309,6 +5336,15 @@
 			)
 		)
 		(property "Puissance" ""
+			(at 359.41 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N LCSC" "C102986"
 			(at 359.41 113.03 0)
 			(effects
 				(font
@@ -5591,6 +5627,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N LCSC" "C476766"
+			(at 120.65 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d4accacd-338d-4a68-bf8d-2a1238d20de8")
 		)
@@ -5705,6 +5750,15 @@
 			)
 		)
 		(property "Puissance" ""
+			(at 58.42 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N LCSC" "C4364118"
 			(at 58.42 62.23 0)
 			(effects
 				(font
@@ -5884,6 +5938,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N LCSC" "C476766"
+			(at 63.5 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "839d9f32-eef2-4090-b537-8872e1ef08c8")
 		)
@@ -5989,6 +6052,15 @@
 			)
 		)
 		(property "Puissance" ""
+			(at 153.67 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N LCSC" "C102986"
 			(at 153.67 144.78 0)
 			(effects
 				(font
@@ -6447,6 +6519,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N LCSC" "C476766"
+			(at 39.37 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "644a67db-a689-4c41-98d0-12f3e31d023b")
 		)
@@ -6560,6 +6641,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N LCSC" "C102986"
+			(at 274.32 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7d40fa5b-f329-49b3-a749-e7013a744f61")
 		)
@@ -6665,6 +6755,15 @@
 			)
 		)
 		(property "Puissance" ""
+			(at 193.04 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N LCSC" "C102986"
 			(at 193.04 88.9 0)
 			(effects
 				(font
@@ -6881,6 +6980,15 @@
 			)
 		)
 		(property "Puissance" ""
+			(at 30.48 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N LCSC" "C476766"
 			(at 30.48 92.71 0)
 			(effects
 				(font
@@ -7122,6 +7230,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N LCSC" "C625461"
+			(at 139.7 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "835c8ec2-358b-4e69-8ae5-087690a08a1e")
 		)
@@ -7236,6 +7353,15 @@
 			)
 		)
 		(property "Puissance" ""
+			(at 275.59 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N LCSC" "C102986"
 			(at 275.59 144.78 0)
 			(effects
 				(font
@@ -7550,6 +7676,15 @@
 			)
 		)
 		(property "Puissance" ""
+			(at 316.23 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N LCSC" "C102986"
 			(at 316.23 144.78 0)
 			(effects
 				(font
@@ -8402,6 +8537,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N LCSC" "C84376"
+			(at 106.68 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "47c7fd24-335d-46d6-8b2d-1f56d216a2a3")
 		)
@@ -8505,7 +8649,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N MOUSER" "449-LFSPXO076024REEL"
+		(property "P/N MOUSER" "449-LFSPXO076024CUTT"
 			(at 49.53 93.98 0)
 			(effects
 				(font
@@ -8515,6 +8659,15 @@
 			)
 		)
 		(property "Puissance" ""
+			(at 49.53 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N LCSC" "C17671752"
 			(at 49.53 93.98 0)
 			(effects
 				(font
@@ -8729,6 +8882,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N LCSC" "C344171"
+			(at 99.06 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b055420e-58ca-46b6-a78d-2f34dfa3c680")
 		)
@@ -8834,6 +8996,15 @@
 			)
 		)
 		(property "Puissance" ""
+			(at 316.23 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N LCSC" "C102986"
 			(at 316.23 88.9 0)
 			(effects
 				(font
@@ -8956,6 +9127,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N LCSC" "C84376"
+			(at 57.15 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dfd62e44-42a2-47e4-b1ec-5f8a8cf5aad9")
 		)
@@ -9069,6 +9249,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N LCSC" "C102986"
+			(at 233.68 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d0db9e04-3de2-4a7a-b3dc-c48a36e15390")
 		)
@@ -9173,6 +9362,15 @@
 			)
 		)
 		(property "Puissance" ""
+			(at 106.68 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N LCSC" "C84376"
 			(at 106.68 100.33 0)
 			(effects
 				(font
@@ -9408,6 +9606,15 @@
 			)
 		)
 		(property "Puissance" ""
+			(at 74.93 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N LCSC" "C476766"
 			(at 74.93 38.1 0)
 			(effects
 				(font
@@ -9663,6 +9870,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N LCSC" "C102986"
+			(at 194.31 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9d1d595b-20fa-4598-964f-89a5aa842a27")
 		)
@@ -9768,6 +9984,15 @@
 			)
 		)
 		(property "Puissance" ""
+			(at 152.4 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N LCSC" "C102986"
 			(at 152.4 88.9 0)
 			(effects
 				(font

@@ -1,0 +1,10 @@
+changer le DC/DC 5V ?
+point de test GND (travresant) vers le logo "OPEN Hardware"
+refroidisseur sur bottom (ventilateur de HDD ?)
+detourer les masses des connecteurs de l'ecran (impossible a souder manuellement)
+C1 inutile ?
+grossir empreintes des 470uF 25 10x10
+
+R14 = 33K2 ( set Imax to 180A)
+the formula is like this: R = 6000 / (num_phases * max_current)
+so lets say 30A per phase, 6 phases -> R=33.2k

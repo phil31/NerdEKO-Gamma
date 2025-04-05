@@ -2203,6 +2203,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N LCSC" "C17513"
+			(at 64.77 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "25ecb119-0862-45ac-8ba7-cd19a837c5a9")
 		)
@@ -2568,6 +2577,15 @@
 			)
 		)
 		(property "P/N MOUSER" "859-LTST-C171GKT"
+			(at 64.77 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N LCSC" "C913075"
 			(at 64.77 55.88 0)
 			(effects
 				(font
@@ -3863,6 +3881,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N LCSC" "C7426780"
+			(at 26.67 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "756f2e29-49e5-4557-a4ec-a683bceb4703")
 		)
@@ -4257,6 +4284,15 @@
 			)
 		)
 		(property "Puissance" ""
+			(at 43.18 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N LCSC" "C2980548"
 			(at 43.18 62.23 0)
 			(effects
 				(font

@@ -16,7 +16,7 @@
     },
     "selection_filter": {
       "dimensions": true,
-      "footprints": true,
+      "footprints": false,
       "graphics": true,
       "keepouts": true,
       "lockedItems": false,
@@ -37,7 +37,6 @@
       8,
       9,
       10,
-      11,
       12,
       13,
       15,
