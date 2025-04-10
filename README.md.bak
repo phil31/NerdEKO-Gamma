@@ -1,4 +1,7 @@
-<img src="https://github.com/phil31/NerdEKO-Gamma/blob/main/images/InitScreen2.jpg" width="250px">
+<div style="text-align: center;">
+	<img src="https://github.com/phil31/NerdEKO-Gamma/blob/main/images/InitScreen2.jpg" width="250px">
+</div>
+
 # Nerd-EKO-Gamma Miner
 
 fork of the NerdOCTAXE-Gamma design (https://github.com/Patsch91/NerdOCTAXE-Gamma), with 12 x BM1370 (14TH/s SHA256)
