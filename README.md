@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/phil31/NerdEKO-Gamma/blob/main/images/InitScreen2.jpg" alt="Nerd_EKO" width="250px></p>
+<p align="center"><img src="https://github.com/phil31/NerdEKO-Gamma/blob/main/images/InitScreen2.jpg" alt="Nerd_EKO"></p>
 
 
 # Nerd-EKO-Gamma Miner
