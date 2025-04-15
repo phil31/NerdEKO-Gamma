@@ -21,7 +21,9 @@ particulary attention : NEVER power up the board with the Vcore enable without p
 
 #### Inspired by 
 [Bitaxe](https://github.com/skot/bitaxe) 
+[NerdAxe](https://github.com/BitMaker-hub)
 [NerdOCTAXE](https://github.com/Patsch91/NerdOCTAXE-Gamma) 
+[ESP-Miner-NerdQAxePlus](https://github.com/shufps/ESP-Miner-NerdQAxePlus)
 [OSMU](https://osmu.wiki/)
 
 ## Support this project ?
