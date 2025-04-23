@@ -29,5 +29,5 @@ particulary attention : NEVER power up the board with the Vcore enable without p
 
 ## Support this project ?
 If you like this project and want to support future work, feel free to donate Bitcoin to :
-**`13u27UUChYL2m6hrdvG5fCQJcyQv2nWNkk`**
+**`bc1q8hrm09tv3ytf5g4zusl8f0xq5l3ddla3ykz2nw`**
 

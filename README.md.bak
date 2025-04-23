@@ -5,6 +5,7 @@
 
 fork of the NerdOCTAXE-Gamma design (https://github.com/Patsch91/NerdOCTAXE-Gamma), with 12 x BM1370 (14TH/s SHA256)
 	
+![hashcard](https://github.com/phil31/NerdEKO-Gamma/blob/main/images/IMG_20250405_233905071.jpg)
 ![hashcard](https://github.com/phil31/NerdEKO-Gamma/blob/main/images/Assembled_Nerd-EKO-Gamma.jpg)
 ![hashcard](https://github.com/phil31/NerdEKO-Gamma/blob/main/images/Nerd-EKO-Gamma_TOP.jpg)
 ![hashcard](https://github.com/phil31/NerdEKO-Gamma/blob/main/images/Nerd-EKO-Gamma_BOT.jpg)
