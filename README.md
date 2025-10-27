@@ -20,7 +20,7 @@ be aware, need some knowledge and tools to build this board !
 particulary attention : NEVER power up the board with the Vcore enable without proper heatsink (this will immediatly kill the ASICs !)
 
 
-#### License 
+## License 
 This hardware design is licensed under the TAPR Open Hardware License – Non-Commercial (OHL-NC).  
 You are free to use, modify, and distribute for **non-commercial purposes**.  
 
@@ -28,14 +28,11 @@ You are free to use, modify, and distribute for **non-commercial purposes**.
 See the [LICENSE](LICENSE) file for details.
 
 
-#### Inspired by 
+## Inspired by 
 [Bitaxe](https://github.com/skot/bitaxe) 
 [NerdAxe](https://github.com/BitMaker-hub)
 [NerdOCTAXE](https://github.com/Patsch91/NerdOCTAXE-Gamma) 
 [ESP-Miner-NerdQAxePlus](https://github.com/shufps/ESP-Miner-NerdQAxePlus)
 [OSMU](https://osmu.wiki/)
 
-## Support this project ?
-If you like this project and want to support future work, feel free to donate Bitcoin to :
-**`bc1q8hrm09tv3ytf5g4zusl8f0xq5l3ddla3ykz2nw`**
 
