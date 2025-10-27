@@ -20,6 +20,14 @@ be aware, need some knowledge and tools to build this board !
 particulary attention : NEVER power up the board with the Vcore enable without proper heatsink (this will immediatly kill the ASICs !)
 
 
+#### License 
+This hardware design is licensed under the TAPR Open Hardware License – Non-Commercial (OHL-NC).  
+You are free to use, modify, and distribute for **non-commercial purposes**.  
+
+**Commercial use requires explicit written permission from the copyright holder.**  
+See the [LICENSE](LICENSE) file for details.
+
+
 #### Inspired by 
 [Bitaxe](https://github.com/skot/bitaxe) 
 [NerdAxe](https://github.com/BitMaker-hub)
